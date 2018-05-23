@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.btn {
+  margin-right: 5%;
+}
+
+.markedDone{
+  text-decoration: line-through;
+  font-size: 20px;
+  color: brown
+}
+.btnForm{
+  margin-left:2%; 
+}
